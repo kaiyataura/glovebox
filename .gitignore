@@ -1,0 +1,8 @@
+.vscode
+HWPScan/*
+ScanImages/*
+Scripts/*
+TestScripts/*
+!TestScripts/PS4Controller_v2.py
+GloveBoxSetupGUI_v13-temp.py
+test_*.png
